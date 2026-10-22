@@ -1,4 +1,4 @@
-name: Compilar Next Light
+name: Compilar Lightnex
 
 on:
   workflow_dispatch:
@@ -21,6 +21,6 @@ jobs:
     with:
       proyecto: lightcraft
       upstream: storytold/lightcraft
-      nombre: Next Light
+      nombre: Lightnex
       ref: ${{ inputs.ref }}
       publicar: ${{ inputs.publicar }}

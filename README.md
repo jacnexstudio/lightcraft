@@ -1,4 +1,4 @@
-# Next Light
+# Lightnex
 
 Biblioteca de fotos y revelado RAW. Parte de la suite Jacnex.
 
